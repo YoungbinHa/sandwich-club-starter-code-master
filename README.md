@@ -1,4 +1,4 @@
-# Sandwich Club Project Assignment
+# Sandwich Club Project Assignment _ Udacity
 
 ## Fill parseSandwichJson Function
 
