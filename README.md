@@ -1,6 +1,7 @@
 # Sandwich Club Project Assignment
 
 ## Fill parseSandwichJson Function
+
 ```java
 public static Sandwich parseSandwichJson(String json) throws JSONException {
         JSONObject sandwichDetailJsonObject = new JSONObject(json);
@@ -102,3 +103,6 @@ public static Sandwich parseSandwichJson(String json) throws JSONException {
             mPlaceOfOrigin.setText(sb.toString());
         }
 ```
+## Attributes
+I got ideas how to convert JsonArray to List from 
+https://stackoverflow.com/questions/3395729/convert-json-array-to-normal-java-list
